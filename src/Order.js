@@ -76,7 +76,6 @@ export class Order extends Component {
                     <h3>Subtotal</h3>
                   </td>
                   <td></td>
-                  <td></td>
                   <td>
                     <h3>
                       <FormattedNumber
@@ -87,6 +86,7 @@ export class Order extends Component {
                       />
                     </h3>
                   </td>
+                  <td></td>
                 </tr>
               </tbody>
             </Table>
